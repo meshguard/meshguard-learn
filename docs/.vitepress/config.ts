@@ -68,7 +68,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/dbhurley/meshguard' },
+      { icon: 'github', link: 'https://github.com/meshguard/meshguard' },
       { icon: 'x', link: 'https://x.com/MeshGuardApp' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/company/meshguard/' },
     ],
