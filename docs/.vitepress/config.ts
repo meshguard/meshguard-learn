@@ -48,6 +48,9 @@ export default defineConfig({
             { text: 'Preventing Prompt Injection', link: '/guides/preventing-prompt-injection' },
             { text: 'Building a Customer Service Agent', link: '/guides/customer-service-agent' },
             { text: 'Rate Limiting AutoGPT', link: '/guides/rate-limiting-autogpt' },
+            { text: 'Governing Clawdbot Agents', link: '/guides/governing-clawdbot-agents' },
+            { text: 'MeshGuard for Small Business', link: '/guides/meshguard-for-small-business' },
+            { text: 'Personal vs Enterprise Governance', link: '/guides/personal-vs-enterprise-governance' },
           ]
         }
       ],
