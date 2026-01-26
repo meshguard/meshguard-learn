@@ -7,45 +7,7 @@
     <changefreq>weekly</changefreq>
     <priority>1.00</priority>
   </url>
-  
-  <!-- Comparisons -->
-  <url>
-    <loc>https://learn.meshguard.app/compare/</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://learn.meshguard.app/compare/meshguard-vs-descope</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://learn.meshguard.app/compare/meshguard-vs-opa</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://learn.meshguard.app/compare/meshguard-vs-langchain-guardrails</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://learn.meshguard.app/compare/meshguard-vs-constitutional-ai</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://learn.meshguard.app/compare/meshguard-vs-azure-content-safety</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  
+
   <!-- Guides -->
   <url>
     <loc>https://learn.meshguard.app/guides/</loc>
@@ -83,7 +45,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
-  
+  <url>
+    <loc>https://learn.meshguard.app/guides/governing-clawdbot-agents</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/guides/meshguard-for-small-business</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/guides/personal-vs-enterprise-governance</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
   <!-- Concepts -->
   <url>
     <loc>https://learn.meshguard.app/concepts/</loc>
@@ -123,6 +103,44 @@
   </url>
   <url>
     <loc>https://learn.meshguard.app/concepts/audit-logs</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Comparisons -->
+  <url>
+    <loc>https://learn.meshguard.app/compare/</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/compare/meshguard-vs-descope</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/compare/meshguard-vs-opa</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/compare/meshguard-vs-langchain-guardrails</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/compare/meshguard-vs-constitutional-ai</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://learn.meshguard.app/compare/meshguard-vs-azure-content-safety</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
