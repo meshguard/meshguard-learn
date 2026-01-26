@@ -1,6 +1,7 @@
 {
   "name": "meshguard-learn",
   "version": "1.0.0",
+  "type": "module",
   "description": "MeshGuard Learning Center",
   "scripts": {
     "dev": "vitepress dev docs",
