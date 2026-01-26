@@ -10,11 +10,13 @@ The foundational guide to understanding why AI agents need governance. Covers th
 ### [Trust Tiers Explained](/concepts/trust-tiers)
 How MeshGuard uses graduated trust levels to enable different autonomy levels for different agents. From anonymous to privileged.
 
+### [Policy Design Patterns](/concepts/policy-design-patterns)
+Best practices for writing MeshGuard policies that scale. Covers deny-by-default, role-based, time-based, and resource-based patterns with real-world examples.
+
 ## Coming Soon
 
 - The Principle of Least Privilege for AI
 - Delegation Chains and Permission Ceilings
-- Policy Design Patterns
 - Audit Logs: Building Compliance-Ready Systems
 
 ---
