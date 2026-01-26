@@ -42,6 +42,8 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/guides/' },
             { text: 'Governing LangChain Agents', link: '/guides/governing-langchain-agents' },
+            { text: 'Securing CrewAI', link: '/guides/securing-crewai' },
+            { text: 'Preventing Prompt Injection', link: '/guides/preventing-prompt-injection' },
           ]
         }
       ],
@@ -52,6 +54,8 @@ export default defineConfig({
             { text: 'Overview', link: '/concepts/' },
             { text: 'What is Agent Governance?', link: '/concepts/what-is-agent-governance' },
             { text: 'Trust Tiers Explained', link: '/concepts/trust-tiers' },
+            { text: 'Delegation Chains', link: '/concepts/delegation-chains' },
+            { text: 'Policy Design Patterns', link: '/concepts/policy-design-patterns' },
           ]
         }
       ],
