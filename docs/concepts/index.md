@@ -2,13 +2,18 @@
 
 Deep dives into the theory and practice of AI agent governance.
 
+## Core Concepts
+
+### [What is Agent Governance?](/concepts/what-is-agent-governance)
+The foundational guide to understanding why AI agents need governance and what effective governance looks like. Covers the four pillars: Identity, Policy, Enforcement, and Audit.
+
 ## Coming Soon
 
-- What is Agent Governance?
 - Trust Tiers Explained
 - The Principle of Least Privilege for AI
-- Audit Logs: Why Every Agent Action Matters
 - Delegation Chains and Permission Ceilings
+- Audit Logs: Why Every Agent Action Matters
+- Policy Design Patterns
 
 ---
 

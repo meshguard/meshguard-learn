@@ -30,6 +30,7 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/compare/' },
             { text: 'MeshGuard vs Descope', link: '/compare/meshguard-vs-descope' },
+            { text: 'MeshGuard vs OPA', link: '/compare/meshguard-vs-opa' },
           ]
         }
       ],
@@ -38,6 +39,7 @@ export default defineConfig({
           text: 'Guides',
           items: [
             { text: 'Overview', link: '/guides/' },
+            { text: 'Governing LangChain Agents', link: '/guides/governing-langchain-agents' },
           ]
         }
       ],
@@ -46,6 +48,7 @@ export default defineConfig({
           text: 'Concepts',
           items: [
             { text: 'Overview', link: '/concepts/' },
+            { text: 'What is Agent Governance?', link: '/concepts/what-is-agent-governance' },
           ]
         }
       ],
