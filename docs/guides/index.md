@@ -13,9 +13,11 @@ Master the security challenges unique to multi-agent orchestration. Learn about 
 ### [Building a Governed Customer Service Agent](/guides/customer-service-agent)
 A hands-on tutorial for building a production-ready customer service agent with tiered permissions (basic lookups, elevated refunds, admin account changes), human escalation patterns, and comprehensive audit logging.
 
-## Coming Soon
+### [Rate Limiting AutoGPT to Control Costs](/guides/rate-limiting-autogpt)
+A comprehensive guide to preventing runaway costs when running autonomous AutoGPT agents. Covers the agent loop cost model, real explosion scenarios, multi-dimensional rate limiting, token budgets, cost monitoring, and production best practices.
 
-- Rate Limiting AutoGPT to Control Costs
+### [Preventing Prompt Injection Attacks](/guides/preventing-prompt-injection)
+A deep dive into prompt injection vulnerabilities in AI agents and how MeshGuard's governance model provides defense-in-depth protection against these attacks.
 
 ---
 
