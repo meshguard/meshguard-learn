@@ -123,3 +123,9 @@ MeshGuard is particularly valuable when:
 - MeshGuard: identity + authorization + delegation governance + unified audit
 
 Together, they provide a stronger foundation for production multi-agent systems.
+
+---
+
+## Related reading
+
+- Guide: Governing Google Vertex AI Agents with MeshGuard

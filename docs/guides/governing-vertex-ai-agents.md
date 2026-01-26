@@ -257,3 +257,9 @@ Include in context:
 - Expand to chain-aware policy and unified audit
 
 For a full working example, see the `vertex-ai-multiagent` example in the MeshGuard examples repo.
+
+---
+
+## Related reading
+
+- Compare: MeshGuard vs Vertex AI Guardrails
