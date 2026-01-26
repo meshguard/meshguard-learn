@@ -1,5 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "docs/.vitepress/dist",
-  "framework": null
+  "framework": null,
+  "cleanUrls": true
 }
