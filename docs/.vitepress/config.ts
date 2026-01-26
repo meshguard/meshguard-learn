@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'MeshGuard Learn',
   description: 'Guides, comparisons, and deep dives on AI agent governance',
   appearance: 'force-dark',
+  ignoreDeadLinks: true,  // Ignore links to pages not yet created
   
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
