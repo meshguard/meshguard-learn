@@ -3,10 +3,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'MeshGuard Learn',
   description: 'Guides, comparisons, and deep dives on AI agent governance',
+  appearance: 'force-dark',
   
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
     ['meta', { name: 'theme-color', content: '#00D4AA' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
   ],
 
   themeConfig: {

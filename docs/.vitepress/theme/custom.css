@@ -1,0 +1,168 @@
+/* MeshGuard Brand Colors */
+:root {
+  /* Brand palette */
+  --mg-navy: #0a0f1a;
+  --mg-navy-light: #0d1424;
+  --mg-teal: #00D4AA;
+  --mg-terminal-green: #4ADE80;
+  --mg-terminal-yellow: #FACC15;
+  --mg-terminal-red: #F87171;
+  --mg-code-blue: #7DD3FC;
+
+  /* VitePress overrides - Light mode (we force dark) */
+  --vp-c-brand-1: var(--mg-teal);
+  --vp-c-brand-2: #00c49d;
+  --vp-c-brand-3: #00b38f;
+  --vp-c-brand-soft: rgba(0, 212, 170, 0.14);
+}
+
+/* Force dark mode */
+.dark {
+  --vp-c-bg: var(--mg-navy);
+  --vp-c-bg-alt: var(--mg-navy-light);
+  --vp-c-bg-elv: var(--mg-navy-light);
+  --vp-c-bg-soft: var(--mg-navy-light);
+
+  --vp-c-brand-1: var(--mg-teal);
+  --vp-c-brand-2: #00c49d;
+  --vp-c-brand-3: #00b38f;
+  --vp-c-brand-soft: rgba(0, 212, 170, 0.14);
+
+  --vp-c-tip-1: var(--mg-teal);
+  --vp-c-tip-2: rgba(0, 212, 170, 0.5);
+  --vp-c-tip-3: rgba(0, 212, 170, 0.25);
+  --vp-c-tip-soft: rgba(0, 212, 170, 0.08);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, var(--mg-teal) 30%, #00ffcc);
+
+  --vp-c-text-1: rgba(255, 255, 255, 0.95);
+  --vp-c-text-2: rgba(255, 255, 255, 0.7);
+  --vp-c-text-3: rgba(255, 255, 255, 0.5);
+
+  --vp-c-divider: rgba(255, 255, 255, 0.1);
+  --vp-c-border: rgba(255, 255, 255, 0.15);
+}
+
+/* Force dark mode always */
+html {
+  color-scheme: dark;
+}
+
+html:not(.dark) {
+  --vp-c-bg: var(--mg-navy);
+  --vp-c-bg-alt: var(--mg-navy-light);
+  --vp-c-bg-elv: var(--mg-navy-light);
+  --vp-c-bg-soft: var(--mg-navy-light);
+  --vp-c-text-1: rgba(255, 255, 255, 0.95);
+  --vp-c-text-2: rgba(255, 255, 255, 0.7);
+  --vp-c-text-3: rgba(255, 255, 255, 0.5);
+  --vp-c-divider: rgba(255, 255, 255, 0.1);
+  --vp-c-border: rgba(255, 255, 255, 0.15);
+}
+
+/* Monospace font for that terminal feel */
+:root {
+  --vp-font-family-base: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Consolas', monospace;
+  --vp-font-family-mono: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Consolas', monospace;
+}
+
+/* Code blocks styling */
+.vp-code-group .tabs label,
+.vp-code-group .blocks .active {
+  background-color: var(--mg-navy-light) !important;
+}
+
+div[class*='language-'] {
+  background-color: var(--mg-navy-light) !important;
+}
+
+/* Hero section tweaks */
+.VPHero .name {
+  font-weight: 700;
+}
+
+.VPHero .tagline {
+  color: var(--vp-c-text-2);
+}
+
+/* Feature cards */
+.VPFeature {
+  background-color: var(--mg-navy-light) !important;
+  border-color: rgba(0, 212, 170, 0.2) !important;
+}
+
+.VPFeature:hover {
+  border-color: var(--mg-teal) !important;
+}
+
+/* Nav and sidebar */
+.VPNav {
+  background-color: var(--mg-navy) !important;
+  border-bottom-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.VPSidebar {
+  background-color: var(--mg-navy) !important;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: var(--mg-navy-light);
+  color: var(--mg-teal);
+}
+
+td, th {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.75rem;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Links */
+.vp-doc a {
+  color: var(--mg-teal);
+}
+
+.vp-doc a:hover {
+  color: #00ffcc;
+}
+
+/* Tip boxes */
+.custom-block.tip {
+  border-color: var(--mg-teal);
+  background-color: rgba(0, 212, 170, 0.08);
+}
+
+.custom-block.tip .custom-block-title {
+  color: var(--mg-teal);
+}
+
+/* Button overrides */
+.VPButton.brand {
+  background-color: var(--mg-teal) !important;
+  border-color: var(--mg-teal) !important;
+  color: var(--mg-navy) !important;
+}
+
+.VPButton.brand:hover {
+  background-color: #00c49d !important;
+  border-color: #00c49d !important;
+}
+
+.VPButton.alt {
+  background-color: transparent !important;
+  border-color: var(--mg-teal) !important;
+  color: var(--mg-teal) !important;
+}
+
+.VPButton.alt:hover {
+  background-color: rgba(0, 212, 170, 0.1) !important;
+}
