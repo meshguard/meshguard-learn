@@ -13,8 +13,12 @@ A deep dive comparing **infrastructure-level policy** (OPA) with **agent-level g
 ### [MeshGuard vs LangChain Guardrails](/compare/meshguard-vs-langchain-guardrails)
 Comparing **content safety** (LangChain Guardrails) with **action governance** (MeshGuard). PII filtering meets policy enforcement.
 
+### [MeshGuard vs Azure AI Content Safety](/compare/meshguard-vs-azure-content-safety)
+Understanding the difference between **content moderation** (Azure) and **action governance** (MeshGuard). Harm detection meets policy-based authorization.
+
+### [MeshGuard vs Anthropic Constitutional AI](/compare/meshguard-vs-constitutional-ai)
+The difference between **training-time alignment** (Constitutional AI) and **runtime governance** (MeshGuard). Baked-in values meet external policy enforcement — and why enterprise needs both.
+
 ## Coming Soon
 
-- MeshGuard vs Anthropic's Constitutional AI
-- MeshGuard vs Azure AI Content Safety
 - MeshGuard vs AWS Bedrock Guardrails

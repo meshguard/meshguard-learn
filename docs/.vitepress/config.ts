@@ -33,6 +33,7 @@ export default defineConfig({
             { text: 'MeshGuard vs Descope', link: '/compare/meshguard-vs-descope' },
             { text: 'MeshGuard vs OPA', link: '/compare/meshguard-vs-opa' },
             { text: 'MeshGuard vs LangChain Guardrails', link: '/compare/meshguard-vs-langchain-guardrails' },
+            { text: 'MeshGuard vs Azure AI Content Safety', link: '/compare/meshguard-vs-azure-content-safety' },
           ]
         }
       ],
