@@ -22,6 +22,5 @@ How MeshGuard complements **Microsoft Purview** by adding real-time policy enfor
 ### [MeshGuard vs Anthropic Constitutional AI](/compare/meshguard-vs-constitutional-ai)
 The difference between **training-time alignment** (Constitutional AI) and **runtime governance** (MeshGuard). Baked-in values meet external policy enforcement — and why enterprise needs both.
 
-## Coming Soon
-
-- MeshGuard vs AWS Bedrock Guardrails
+### [MeshGuard vs Amazon Bedrock Guardrails](/compare/meshguard-vs-bedrock-guardrails)
+Comparing **content filtering** (Bedrock Guardrails) with **agent governance** (MeshGuard). Toxicity and PII detection meets identity, policy, and audit.
