@@ -1,0 +1,11 @@
+# MeshGuard Learn - AI Agent Governance Resources
+# https://learn.meshguard.app
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://learn.meshguard.app/sitemap.xml
+
+# Main product site
+# https://meshguard.app

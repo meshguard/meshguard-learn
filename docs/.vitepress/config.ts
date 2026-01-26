@@ -46,6 +46,8 @@ export default defineConfig({
             { text: 'Governing LangChain Agents', link: '/guides/governing-langchain-agents' },
             { text: 'Securing CrewAI', link: '/guides/securing-crewai' },
             { text: 'Preventing Prompt Injection', link: '/guides/preventing-prompt-injection' },
+            { text: 'Building a Customer Service Agent', link: '/guides/customer-service-agent' },
+            { text: 'Rate Limiting AutoGPT', link: '/guides/rate-limiting-autogpt' },
           ]
         }
       ],
@@ -58,6 +60,8 @@ export default defineConfig({
             { text: 'Trust Tiers Explained', link: '/concepts/trust-tiers' },
             { text: 'Delegation Chains', link: '/concepts/delegation-chains' },
             { text: 'Policy Design Patterns', link: '/concepts/policy-design-patterns' },
+            { text: 'Principle of Least Privilege', link: '/concepts/least-privilege' },
+            { text: 'Audit Logs for Compliance', link: '/concepts/audit-logs' },
           ]
         }
       ],
