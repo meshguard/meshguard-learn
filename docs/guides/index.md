@@ -10,11 +10,12 @@ A comprehensive guide to adding enterprise-grade governance to your LangChain ag
 ### [Securing CrewAI Multi-Agent Systems](/guides/securing-crewai)
 Master the security challenges unique to multi-agent orchestration. Learn about permission ceilings, delegation governance, hierarchical crew security, and trust tiers.
 
+### [Building a Governed Customer Service Agent](/guides/customer-service-agent)
+A hands-on tutorial for building a production-ready customer service agent with tiered permissions (basic lookups, elevated refunds, admin account changes), human escalation patterns, and comprehensive audit logging.
+
 ## Coming Soon
 
 - Rate Limiting AutoGPT to Control Costs
-- Preventing Prompt Injection with Policy Guardrails
-- Building a Governed Customer Service Agent
 
 ---
 
