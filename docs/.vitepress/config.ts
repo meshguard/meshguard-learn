@@ -34,6 +34,7 @@ export default defineConfig({
             { text: 'MeshGuard vs OPA', link: '/compare/meshguard-vs-opa' },
             { text: 'MeshGuard vs LangChain Guardrails', link: '/compare/meshguard-vs-langchain-guardrails' },
             { text: 'MeshGuard vs Azure AI Content Safety', link: '/compare/meshguard-vs-azure-content-safety' },
+            { text: 'MeshGuard vs Microsoft Purview', link: '/compare/meshguard-vs-microsoft-purview' },
             { text: 'MeshGuard vs Constitutional AI', link: '/compare/meshguard-vs-constitutional-ai' },
           ]
         }
@@ -50,6 +51,7 @@ export default defineConfig({
             { text: 'Rate Limiting AutoGPT', link: '/guides/rate-limiting-autogpt' },
             { text: 'Governing Clawdbot Agents', link: '/guides/governing-clawdbot-agents' },
             { text: 'MeshGuard for Small Business', link: '/guides/meshguard-for-small-business' },
+            { text: 'Governing Microsoft Copilot', link: '/guides/governing-microsoft-copilot' },
             { text: 'Personal vs Enterprise Governance', link: '/guides/personal-vs-enterprise-governance' },
           ]
         }

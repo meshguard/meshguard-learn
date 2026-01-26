@@ -25,6 +25,9 @@ A practical guide to adding governance controls to your Clawdbot AI assistant â€
 ### [MeshGuard for Small Business](/guides/meshguard-for-small-business)
 How small businesses can use MeshGuard to govern AI agents without a security team. Real-world scenarios for e-commerce, consulting, and restaurant use cases â€” plus a 10-minute getting started guide.
 
+### [Governing Microsoft Copilot](/guides/governing-microsoft-copilot)
+How to add governance, audit trails, and policy enforcement to Microsoft 365 Copilot deployments. Covers the 5 risks of ungoverned Copilot, YAML policy examples for department boundaries and executive protection, rate limiting, and integration with Entra ID, Purview, and Sentinel.
+
 ### [Personal vs Enterprise Governance](/guides/personal-vs-enterprise-governance)
 Explore how AI agent governance scales from personal assistants to enterprise deployments. Understand why MeshGuard's unified policy engine works across the entire spectrum, from a single Clawdbot to a fleet of enterprise agents.
 
