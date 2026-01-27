@@ -1,3 +1,9 @@
+---
+title: Implementing Behavioral Trust Scores in Your Agent Mesh
+description: A hands-on guide to designing, computing, and enforcing trust scores that give your agents exactly the permissions they've earned.
+outline: deep
+---
+
 # Implementing Behavioral Trust Scores in Your Agent Mesh
 
 A hands-on guide to designing, computing, and enforcing trust scores that give your agents exactly the permissions they've earned.

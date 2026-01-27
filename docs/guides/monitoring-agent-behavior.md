@@ -1,3 +1,9 @@
+---
+title: A Practical Guide to Monitoring Agent Behavior
+description: How to detect anomalies, build response ladders, and keep your agent mesh healthy — without drowning in alerts.
+outline: deep
+---
+
 # A Practical Guide to Monitoring Agent Behavior
 
 How to detect anomalies, build response ladders, and keep your agent mesh healthy—without drowning in alerts.
