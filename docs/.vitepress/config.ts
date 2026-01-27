@@ -57,6 +57,7 @@ export default defineConfig({
             { text: 'MeshGuard for Small Business', link: '/guides/meshguard-for-small-business' },
             { text: 'Governing Microsoft Copilot', link: '/guides/governing-microsoft-copilot' },
             { text: 'Personal vs Enterprise Governance', link: '/guides/personal-vs-enterprise-governance' },
+            { text: 'Understanding the Analytics Dashboard', link: '/guides/understanding-analytics-dashboard' },
           ]
         }
       ],

@@ -31,6 +31,9 @@ How to add governance, audit trails, and policy enforcement to Microsoft 365 Cop
 ### [Personal vs Enterprise Governance](/guides/personal-vs-enterprise-governance)
 Explore how AI agent governance scales from personal assistants to enterprise deployments. Understand why MeshGuard's unified policy engine works across the entire spectrum, from a single Clawdbot to a fleet of enterprise agents.
 
+### [Understanding the Analytics Dashboard](/guides/understanding-analytics-dashboard)
+A practical guide to the MeshGuard Analytics Dashboard. Learn how to monitor agent activity, spot anomalies, tune policies using real data, and use analytics for SOC 2 compliance and stakeholder reporting.
+
 ---
 
 ::: tip Get Started Now
