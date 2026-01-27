@@ -58,6 +58,9 @@ export default defineConfig({
             { text: 'Governing Microsoft Copilot', link: '/guides/governing-microsoft-copilot' },
             { text: 'Personal vs Enterprise Governance', link: '/guides/personal-vs-enterprise-governance' },
             { text: 'Understanding the Analytics Dashboard', link: '/guides/understanding-analytics-dashboard' },
+            { text: 'Implementing Trust Scores', link: '/guides/implementing-trust-scores' },
+            { text: 'Monitoring Agent Behavior', link: '/guides/monitoring-agent-behavior' },
+            { text: 'Securing Agent Delegation', link: '/guides/securing-agent-delegation' },
           ]
         }
       ],
@@ -72,6 +75,10 @@ export default defineConfig({
             { text: 'Policy Design Patterns', link: '/concepts/policy-design-patterns' },
             { text: 'Principle of Least Privilege', link: '/concepts/least-privilege' },
             { text: 'Audit Logs for Compliance', link: '/concepts/audit-logs' },
+            { text: 'Behavioral Trust Scoring', link: '/concepts/behavioral-trust-scoring' },
+            { text: 'Anomaly Detection in Agent Meshes', link: '/concepts/anomaly-detection-agents' },
+            { text: 'Delegation Chains Deep Dive', link: '/concepts/delegation-chains-deep-dive' },
+            { text: 'Trust Graph Architecture', link: '/concepts/trust-graph-architecture' },
           ]
         }
       ],

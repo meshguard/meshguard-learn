@@ -13,11 +13,19 @@ How MeshGuard uses graduated trust levels to enable different autonomy levels fo
 ### [Policy Design Patterns](/concepts/policy-design-patterns)
 Best practices for writing MeshGuard policies that scale. Covers deny-by-default, role-based, time-based, and resource-based patterns with real-world examples.
 
-## Coming Soon
+## Trust & Behavior
 
-- The Principle of Least Privilege for AI
-- Delegation Chains and Permission Ceilings
-- Audit Logs: Building Compliance-Ready Systems
+### [Behavioral Trust Scoring](/concepts/behavioral-trust-scoring)
+How multi-component behavioral scoring computes dynamic trust for AI agents. Covers weighted linear combination, component independence, normalization, and tier quantization.
+
+### [Anomaly Detection in Agent Meshes](/concepts/anomaly-detection-agents)
+Detecting anomalous agent behavior through constraint violation over trust graph structures. Severity scoring, auto-response feedback loops, and real-time vs. batch detection.
+
+### [Delegation Chains Deep Dive](/concepts/delegation-chains-deep-dive)
+A rigorous exploration of delegation chain mechanics: DAG enforcement, scope monotonicity, depth bounding, time-bounded permissions, and the relationship to capability-based security.
+
+### [Trust Graph Architecture](/concepts/trust-graph-architecture)
+The flagship technical paper on modeling agent governance as a directed acyclic graph. Formal definitions, behavioral trust computation, anomaly detection, delegation protocols, and security analysis against compromised-agent and collusion threat models.
 
 ---
 

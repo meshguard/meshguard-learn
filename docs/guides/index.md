@@ -34,6 +34,17 @@ Explore how AI agent governance scales from personal assistants to enterprise de
 ### [Understanding the Analytics Dashboard](/guides/understanding-analytics-dashboard)
 A practical guide to the MeshGuard Analytics Dashboard. Learn how to monitor agent activity, spot anomalies, tune policies using real data, and use analytics for SOC 2 compliance and stakeholder reporting.
 
+## Trust & Security Deep Dives
+
+### [Implementing Trust Scores](/guides/implementing-trust-scores)
+A hands-on guide to implementing multi-component behavioral trust scoring for your agents. Covers component design, weight tuning, tier thresholds, hysteresis, and cold-start bootstrapping.
+
+### [Monitoring Agent Behavior](/guides/monitoring-agent-behavior)
+How to set up real-time behavioral monitoring and anomaly detection for your AI agent fleet. Covers baseline establishment, constraint configuration, severity tuning, and alert routing.
+
+### [Securing Agent Delegation](/guides/securing-agent-delegation)
+Step-by-step guide to configuring secure delegation chains between agents. Covers scope narrowing, depth limits, time bounds, DAG enforcement, and revocation propagation.
+
 ---
 
 ::: tip Get Started Now
