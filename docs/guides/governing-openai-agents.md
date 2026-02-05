@@ -477,4 +477,4 @@ if __name__ == "__main__":
 - **[Integration reference →](https://docs.meshguard.app/integrations/openai-agents)** — Full API details
 - **[Complete example →](https://github.com/meshguard/meshguard-examples/tree/main/openai-agents-support)** — Production-ready code
 - **[Compare →](/compare/meshguard-vs-openai-guardrails)** — MeshGuard vs OpenAI's built-in safety
-- **[Policy syntax →](https://docs.meshguard.app/policies/syntax)** — Write your own policies
+- **[Policy syntax →](https://docs.meshguard.app/guide/policies)** — Write your own policies

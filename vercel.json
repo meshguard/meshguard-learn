@@ -2,5 +2,9 @@
   "buildCommand": "npm run build",
   "outputDirectory": "docs/.vitepress/dist",
   "framework": null,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/comparisons", "destination": "/compare/", "permanent": true },
+    { "source": "/comparisons/:path*", "destination": "/compare/:path*", "permanent": true }
+  ]
 }

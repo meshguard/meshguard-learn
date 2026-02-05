@@ -154,7 +154,7 @@ Adding MeshGuard governance to your Microsoft Copilot deployment takes under an 
 
 1. **Create a MeshGuard account** at [meshguard.app](https://meshguard.app)
 2. **Connect your Microsoft tenant** using the Azure AD integration wizard
-3. **Deploy policies** using the examples above or start with our [Copilot governance template](https://docs.meshguard.app/templates/microsoft-copilot)
+3. **Deploy policies** using the examples above or refer to the [policy documentation](https://docs.meshguard.app/guide/policies)
 4. **Monitor the audit dashboard** to see every Copilot action across your organization
 
 For detailed setup instructions, visit the [MeshGuard documentation](https://docs.meshguard.app). To explore the SDK for custom policy development, check out [GitHub](https://github.com/meshguard/meshguard). Pricing starts with a free tier for up to 10 agents — see [meshguard.app/pricing](https://meshguard.app/pricing).

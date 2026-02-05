@@ -346,7 +346,7 @@ if len(denied_actions) > 10:
 
 - [Python SDK Reference](/integrations/python) — Full MeshGuard SDK documentation
 - [Policy Configuration](/concepts/policies) — Deep dive into policy syntax
-- [CrewAI Integration](/guides/governing-crewai) — Govern multi-agent systems
+- [CrewAI Integration](/guides/securing-crewai) — Govern multi-agent systems
 - [Trust Tiers Explained](/concepts/trust-tiers) — Understanding agent trust levels
 
 ---
