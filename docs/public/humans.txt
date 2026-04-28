@@ -1,0 +1,10 @@
+/* TEAM */
+Founder: David Hurley
+Site: https://dbhurley.com
+Twitter: @dbhurley
+Location: USA
+
+/* SITE */
+Software: VitePress, Vue, Vercel
+Purpose: Learning resources for AI agent governance with MeshGuard.
+Main site: https://meshguard.app

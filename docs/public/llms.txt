@@ -1,0 +1,24 @@
+# MeshGuard Learn
+
+> Conceptual guides, comparisons, and deep dives on AI agent governance.
+
+This site teaches the principles and patterns behind governing autonomous AI agents. It complements the technical reference at docs.meshguard.app with conceptual material aimed at architects, security engineers, and operators evaluating agent governance approaches.
+
+## About
+MeshGuard Learn covers:
+- Concepts: agent governance, trust tiers, delegation chains, policy design patterns, least privilege, audit logs, behavioral trust scoring, anomaly detection, trust graph architecture
+- Guides: applied playbooks for governing LangChain, CrewAI, AutoGPT, Clawdbot, Claude Code, OpenAI Agents, Bedrock, Vertex AI, and Microsoft Copilot
+- Comparisons: how MeshGuard relates to Descope, OPA, LangChain Guardrails, Azure AI Content Safety, Microsoft Purview, Constitutional AI, Bedrock Guardrails, OpenAI Guardrails, Vertex AI Guardrails
+
+## Sections
+- Concepts: /concepts/ — foundational ideas in agent governance
+- Guides: /guides/ — step-by-step playbooks for production deployments
+- Compare: /compare/ — MeshGuard vs alternative tools and frameworks
+
+## Related sites
+- Marketing & sign-up: https://meshguard.app
+- Technical documentation: https://docs.meshguard.app
+- Dashboard: https://dashboard.meshguard.app
+
+## Contact
+support@meshguard.app
