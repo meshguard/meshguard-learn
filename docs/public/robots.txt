@@ -1,11 +1,72 @@
-# MeshGuard Learn - AI Agent Governance Resources
+# MeshGuard Learn — Guides, Comparisons, and Concepts for AI Agent Governance
 # https://learn.meshguard.app
 
 User-agent: *
 Allow: /
 
-# Sitemap location
+# Sitemaps
 Sitemap: https://learn.meshguard.app/sitemap.xml
 
-# Main product site
-# https://meshguard.app
+# AI crawlers and answer engines — we welcome you
+# These guides explain agent governance, trust, and policy design
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# SOM (Structured Object Model) Directives
+# Machine-readable content for AI agents
+SOM-Endpoint: https://learn.meshguard.app/llms.txt
+SOM-Format: SOM/1.0
+SOM-Scope: main-content
+SOM-Freshness: 3600
+SOM-Token-Budget: 15000
+SOM-Attribution: required
+SOM-Contact: support@meshguard.app
