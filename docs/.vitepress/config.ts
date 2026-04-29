@@ -129,6 +129,10 @@ export default defineConfig({
             { text: 'Securing Agent Delegation', link: '/guides/securing-agent-delegation' },
             { text: 'Memory Quarantine', link: '/guides/memory-quarantine' },
             { text: 'Data Exfiltration Prevention', link: '/guides/exfiltration-prevention' },
+            { text: 'Guardian Sidecar Deployment', link: '/guides/deploying-guardian-sidecar' },
+            { text: 'OpenTelemetry for Agent Governance', link: '/guides/opentelemetry-agent-governance' },
+            { text: 'Infrastructure as Code with Terraform', link: '/guides/terraform-agent-governance' },
+            { text: 'CI/CD Policy Checks with GitHub Actions', link: '/guides/github-actions-policy-checks' },
           ]
         }
       ],
