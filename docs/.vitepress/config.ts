@@ -127,6 +127,8 @@ export default defineConfig({
             { text: 'Implementing Trust Scores', link: '/guides/implementing-trust-scores' },
             { text: 'Monitoring Agent Behavior', link: '/guides/monitoring-agent-behavior' },
             { text: 'Securing Agent Delegation', link: '/guides/securing-agent-delegation' },
+            { text: 'Memory Quarantine', link: '/guides/memory-quarantine' },
+            { text: 'Data Exfiltration Prevention', link: '/guides/exfiltration-prevention' },
           ]
         }
       ],
